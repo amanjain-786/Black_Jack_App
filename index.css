@@ -1,0 +1,36 @@
+#body-heading{
+    color: goldenrod;
+    /* font-size:xx-large;*/
+    font-weight: bolder; 
+}
+body{
+    color:whitesmoke;
+    background-color: rgb(6, 93, 6);
+    /* in the tutorial we actually used the image so i am writint the code for it if you want you can use that bro */
+    /* background-image: url("add the url here");
+    backgrount-size:cover; then isse repeat nahi hoga backgroud image and saara area bhi cover ho jaega bro */
+    /* background-image: url("_grass_4__grass_textures_seamless_turf_lawn_green_ground_field_texture_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    font-weight: bold;
+    font-size: x-large;
+    /* align-items: center; we don't use this for aligning the elements bro*/
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    width:180px;
+    background-color: goldenrod;
+    color: #016f32;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: 700;
+    text-transform: uppercase;
+    border:none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
